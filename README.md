@@ -1,4 +1,4 @@
-# Hello there; welcome 👋🏾
+# Hello!
 
 [![Linkedin Badge](https://img.shields.io/badge/-faithenemaku-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faith-enemaku)](https://www.linkedin.com/in/faith-enemaku)
 
@@ -19,8 +19,3 @@ Feel free to connect or share insights — I’m eager to grow my network and co
 - 🌱 I’m currently learning Vulnerability Management, Incidence Response, and Networking Fundamentals (TCP/IP, DNS, VPNs).
 - 😊 I’m looking for networking opportunities, internships, and entry-level roles in Cybersecurity.
 - 💼 Job interests: SOC Analyst, Junior Pen Tester, or Cybersecurity Analyst (Intern or Junior level).
-
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=faithenemaku&show_icons=true&include_all_commits=true&hide_border=true" alt="Faith's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithenemaku&langs_count=8&layout=compact&hide_border=true" alt="Faith's GitHub stats" /> |
-| ------------- | ------------- |
