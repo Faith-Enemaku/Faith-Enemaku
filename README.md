@@ -1,21 +1,50 @@
-# Hello!
+### Hi, I'm Faith Enemaku
 
 [![Linkedin Badge](https://img.shields.io/badge/-faithenemaku-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faith-enemaku)](https://www.linkedin.com/in/faith-enemaku)
 
-My name is Faith, and I am an avid reader and passionate settlement counsellor with years of experience working in the nonprofit sector, particularly with newcomer women and girls. My journey has always been about empowering others, and recently, I have decided to channel that energy into the world of cybersecurity. What led me here? The growing need for cybersecurity professionals and the challenge of protecting systems and data in an increasingly digital world inspired me to pivot my career. I’ve always been drawn to problem-solving and helping people navigate challenges, and I see cybersecurity as a natural extension of that passion.
+I’m a cybersecurity professional with a strong foundation in security operations, network defense, and risk management. I’m passionate about protecting systems, analyzing threats, and applying practical security measures to strengthen organizational resilience.
 
-After completing an accelerated cybersecurity course, I have developed a strong foundation in identifying, analyzing, and mitigating threats such as malware, DDoS attacks, and social engineering. What excites me most about the field is its dynamic nature — there's always something new to learn and opportunities to make a real impact. I am currently pursuing a Cybersecurity diploma at AltSchool Africa’s School of Engineering. The journey has been intense and challenging, but it has also proven to be immensely rewarding.
+### Certifications
 
-My long-term goal is to specialize in cybersecurity solutions for nonprofit organizations, helping them safeguard sensitive data and ensure continuity in their crucial work. I’m also deeply interested in helping underserved communities understand cybersecurity risks and how to protect themselves.
+- CompTIA Security+ (SY0-701)
+- ISC2 Certified in Cybersecurity (CC)
 
-I’m excited to connect with professionals in the cybersecurity industry and learn from your experiences. Whether you’re a fellow career changer, a seasoned expert, or someone exploring opportunities, I’d love to engage and exchange ideas. Let’s work together to make the digital world a safer place!
+### Projects
 
-Feel free to connect or share insights — I’m eager to grow my network and contribute to this exciting field 😊
+**Secure Network Simulation - Cisco Packet Tracer**:
 
-**Here's a quick summary about me**:
+A simulated enterprise network built to demonstrate secure network design principles, including:
+- Segmented LAN architecture with user PCs, database server, and router/firewall setup
+- Access control policies and basic intrusion prevention
+- Network traffic flow visualization and documentation
+- Tools: Cisco Packet Tracer, Network Topology Design, ACL Configuration
 
-- 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering)
-- 🌱 I’m currently learning Vulnerability Management, Incidence Response, and Networking Fundamentals (TCP/IP, DNS, VPNs).
-- 😊 I’m looking for networking opportunities, internships, and entry-level roles in Cybersecurity.
-- 💼 Job interests: SOC Analyst, Junior Pen Tester, or Cybersecurity Analyst (Intern or Junior level).
+**AWS Security Implementation — Cloud Infrastructure Protection**:
+
+Configured cloud instances and IAM policies to enforce security best practices.
+- Set up Windows and Linux EC2 instances with strong password policies
+- Implemented MFA for IAM users
+- Used OpenSSL to generate and verify digital signatures
+- Tools: AWS EC2, IAM, OpenSSL, Linux CLI
+
+**Password Policy Configuration — Windows & Linux Systems**:
+
+Implemented enterprise-level password security measures.
+- Configured password complexity, history, and expiration rules
+- Tested and documented compliance settings across operating systems
+- Tools: Windows Server, Ubuntu, Group Policy Management, PAM
+
+**Vulnerability Scanning & Analysis — Kali Linux**:
+
+Conducted vulnerability scans and basic reconnaissance in a controlled lab environment.
+- Used scanning tools to identify system weaknesses
+- Generated summary reports with remediation recommendations
+- Tools: Kali Linux, Nmap, Nikto, OpenVAS
+
+### Current Focus
+- Expanding practical skills in cloud security and threat detection
+- Strengthening network monitoring and incident response capabilities
+- Pursuing entry to mid-level opportunities in cybersecurity analysis and operations
+
+### Let's Connect
+You can find me on LinkedIn or explore my repos to see ongoing projects
