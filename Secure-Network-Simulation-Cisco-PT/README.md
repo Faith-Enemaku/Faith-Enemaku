@@ -37,3 +37,5 @@ A simulated enterprise network built to demonstrate secure network design princi
 
 4. Security Enhancements:
 - Apply stricter ACLs to allow only specific ports/protocols and implement DMZ for public-facing services
+
+![Network Diagram](../images/secure-network-diagram.png)
